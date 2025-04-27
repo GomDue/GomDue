@@ -29,10 +29,10 @@ I am continuously studying and expanding my skills in related technologies to bu
     <tr>
       <td style="border-right: 1px solid #ddd; padding: 8px;">Data Engineering</td>
       <td style="padding: 8px;">
-        <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat-square&logo=Pandas&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache Spark-E25A1C.svg?style=flat-square&logo=Apache Spark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache Airflow-017CEE.svg?style=flat-square&logo=Apache Airflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache-Airflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>
       </td>
     </tr>
     <tr>
