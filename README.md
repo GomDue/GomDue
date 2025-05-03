@@ -10,7 +10,7 @@ I am continuously studying and expanding my skills in related technologies to bu
   <thead>
     <tr>
       <th style="border-right: 1px solid #ddd; padding: 8px; text-align: left;">Type</th>
-      <th style="padding: 8px; text-align: left;">Tech</th>
+      <th style="padding: 8px; text-align: left;">Used</th>
     </tr>
   </thead>
   <tbody>
@@ -66,7 +66,7 @@ I am continuously studying and expanding my skills in related technologies to bu
   SSAFY(Samsung Software AI Academy For Youth) 13th Data track (2025.01.06 ~ )
 </li>
 <li>
-  A Study on Accounting Fraud Detection using Neural Network and Random Forest (2023.05)
+  A Study on Accounting Fraud Detection using Neural Network and Random Forest (2023.06)
 </li>
 
 <br>
