@@ -75,6 +75,4 @@ I am continuously studying and expanding my skills in related technologies to bu
 <a href="mailto:hdh026163@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
-<a href="">
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=Notion&logoColor=white"/>
-</a>
+
