@@ -72,9 +72,12 @@ I am continuously studying and expanding my skills in related technologies to bu
 <br><br>
 
 <h2>Projects</h2>
-<a href="https://burnt-waterlily-faf.notion.site/BUNRIWiki-1ec9162b294980a0a0fff10fbead8c1f?pvs=4" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
-</a>
+<p>
+  BUNRIWiki: 
+  <a href="https://burnt-waterlily-faf.notion.site/BUNRIWiki-1ec9162b294980a0a0fff10fbead8c1f?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
+  </a>
+</p>
 
 <br><br>
 
