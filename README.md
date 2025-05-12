@@ -69,7 +69,14 @@ I am continuously studying and expanding my skills in related technologies to bu
   A Study on Accounting Fraud Detection using Neural Network and Random Forest (2023.06)
 </li>
 
-<br>
+<br><br>
+
+<h2>Projects</h2>
+<a href="https://burnt-waterlily-faf.notion.site/BUNRIWiki-1ec9162b294980a0a0fff10fbead8c1f?pvs=4" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+
+<br><br>
 
 <h2>About Me</h2>
 <a href="mailto:hdh026163@gmail.com">
